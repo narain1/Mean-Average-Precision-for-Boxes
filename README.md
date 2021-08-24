@@ -2,7 +2,7 @@ Function to calculate mean average precision (mAP) for set of boxes. Useful for 
 
 # Requirements
 
-python 3.*, numpy, pandas
+python 3.*, numpy, pandas, numba
 
 # Installation
 
